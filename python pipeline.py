@@ -1,1 +1,1 @@
-print("Pipeline start")
+print("Pipeline started")
